@@ -1,0 +1,11 @@
+let FirstNumber=parseFloat(prompt(" Entre le premiere numero"))
+let SecondNumber=parseFloat(prompt(" Entre le deuxieme numero"))
+
+let resultats= (FirstNumber+SecondNumber)
+let soustraction = (FirstNumber-SecondNumber)
+let multip= (FirstNumber*SecondNumber)
+let division= (FirstNumber/SecondNumber)
+console.log(resultats)
+console.log(soustraction)
+console.log(multip)
+console.log(division)
