@@ -1,0 +1,13 @@
+div{
+    width: 300px;
+}
+
+p{
+    border:black solid 1px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.2px;
+    color: violet;    
+}

@@ -1,0 +1,13 @@
+#identifiant{
+    border-color:red;
+        border: 2px black; /* Bordure en pointillés noirs */
+        padding: 10px;
+        margin: 20px;
+    
+
+}
+
+#identifiant p{
+    align-items: center;
+    text-align: center;
+}
